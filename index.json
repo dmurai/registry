@@ -6660,7 +6660,7 @@
       "sound_count": 22,
       "total_size_bytes": 2221369,
       "source_repo": "PeonPing/og-packs",
-      "source_ref": "v1.2.0",
+      "source_ref": "v1.4.0",
       "source_path": "wc3_brewmaster",
       "manifest_sha256": "ee6c769d600532ad4de1c4fb259c73a0335788ec158ce9ccfea1487288bb04b5",
       "tags": [
@@ -6734,7 +6734,7 @@
       "sound_count": 18,
       "total_size_bytes": 1952234,
       "source_repo": "PeonPing/og-packs",
-      "source_ref": "v1.2.0",
+      "source_ref": "v1.4.0",
       "source_path": "wc3_farseer",
       "manifest_sha256": "f9e746b3626a4d0038cc6fcddb078f7a7c336bb7e1d240dc261e5c96573536d6",
       "tags": [
@@ -6769,7 +6769,7 @@
       "sound_count": 20,
       "total_size_bytes": 1258601,
       "source_repo": "PeonPing/og-packs",
-      "source_ref": "v1.2.0",
+      "source_ref": "v1.4.0",
       "source_path": "wc3_grunt",
       "manifest_sha256": "db827e1542339439ade048e5d16f1120bff1e81151a34e4474d20b63eda3d0d0",
       "tags": [
@@ -6843,7 +6843,7 @@
       "sound_count": 19,
       "total_size_bytes": 2038023,
       "source_repo": "PeonPing/og-packs",
-      "source_ref": "v1.2.0",
+      "source_ref": "v1.4.0",
       "source_path": "wc3_knight",
       "manifest_sha256": "f6e718dc4cb7605657b2d5ce83baf5ed93ecb662f768a312e80397fad1e93214",
       "tags": [
