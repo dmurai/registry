@@ -11850,7 +11850,7 @@
     {
       "name": "zugzug",
       "display_name": "Zug Zug",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "A sound pack inspired by Warcraft peon responses",
       "author": {
         "name": "dmurai",
@@ -11873,9 +11873,9 @@
       "sound_count": 14,
       "total_size_bytes": 154426,
       "source_repo": "dmurai/zugzug",
-      "source_ref": "v1.0.0",
+      "source_ref": "v1.0.1",
       "source_path": ".",
-      "manifest_sha256": "9bae8d8cccaeddda2ec99412b949845aeb44fbffdca4c798c96dd77ccde78388",
+      "manifest_sha256": "3fd4b7c8f4d9d8b68dfd4f88b50219add75c675b5eab1a538d85275acf5ad2b3",
       "tags": [
         "gaming",
         "warcraft",
