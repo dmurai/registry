@@ -8772,6 +8772,7 @@
       "trust_tier": "community",
       "categories": [
         "input.required",
+        "resource.limit",
         "session.end",
         "session.start",
         "task.acknowledge",
@@ -8781,12 +8782,12 @@
       ],
       "language": "en",
       "license": "CC-BY-NC-4.0",
-      "sound_count": 19,
+      "sound_count": 20,
       "total_size_bytes": 337029,
       "source_repo": "dmurai/sc_probe",
       "source_ref": "main",
       "source_path": ".",
-      "manifest_sha256": "aa79a7296c578a7795500887ae88501cb7657c068020ab236aca562ddfac5ff3",
+      "manifest_sha256": "3ef59738bcfa1499826c7ee2aa2ccdd64c24a25ea996b59c47cc93f839b28974",
       "tags": [
         "gaming",
         "starcraft",
